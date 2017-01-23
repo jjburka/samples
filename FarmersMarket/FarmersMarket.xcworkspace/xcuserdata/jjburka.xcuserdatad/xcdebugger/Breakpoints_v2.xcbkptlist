@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FarmersMarket/NetworkService.swift"
+            timestampString = "503444243.944231"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "getMarketDetail(market:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Mixpanel-swift/Mixpanel/UITableViewBinding.swift"
+            timestampString = "503447754.987298"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "execute()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Mixpanel-swift/Mixpanel/UITableViewBinding.swift"
+            timestampString = "503447757.667101"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "execute()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Mixpanel-swift/Mixpanel/UITableViewBinding.swift"
+            timestampString = "503447775.145264"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "init(object:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mixpanel.UITableViewBinding.init (object : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;Mixpanel.UITableViewBinding&gt;"
+                  moduleName = "Mixpanel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjburka/Documents/Projects/FarmersMarket/Pods/Mixpanel-swift/Mixpanel/UITableViewBinding.swift"
+                  timestampString = "503614772.517778"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "2296">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mixpanel.UITableViewBinding.(init (object : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;Mixpanel.UITableViewBinding&gt;).(implicit closure #3)"
+                  moduleName = "Mixpanel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjburka/Documents/Projects/FarmersMarket/Pods/Mixpanel-swift/Mixpanel/UITableViewBinding.swift"
+                  timestampString = "503614772.521731"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Mixpanel-swift/Mixpanel/UITableViewBinding.swift"
+            timestampString = "503447776.371654"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "init(object:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mixpanel.UITableViewBinding.init (object : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;Mixpanel.UITableViewBinding&gt;"
+                  moduleName = "Mixpanel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjburka/Documents/Projects/FarmersMarket/Pods/Mixpanel-swift/Mixpanel/UITableViewBinding.swift"
+                  timestampString = "503614772.529542"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "2592">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mixpanel.UITableViewBinding.(init (object : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;Mixpanel.UITableViewBinding&gt;).(implicit closure #2)"
+                  moduleName = "Mixpanel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjburka/Documents/Projects/FarmersMarket/Pods/Mixpanel-swift/Mixpanel/UITableViewBinding.swift"
+                  timestampString = "503614772.532804"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Mixpanel-swift/Mixpanel/UITableViewBinding.swift"
+            timestampString = "503447777.64052"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "init(object:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mixpanel.UITableViewBinding.init (object : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;Mixpanel.UITableViewBinding&gt;"
+                  moduleName = "Mixpanel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjburka/Documents/Projects/FarmersMarket/Pods/Mixpanel-swift/Mixpanel/UITableViewBinding.swift"
+                  timestampString = "503614772.539399"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mixpanel.UITableViewBinding.init (object : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;Mixpanel.UITableViewBinding&gt;"
+                  moduleName = "Mixpanel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjburka/Documents/Projects/FarmersMarket/Pods/Mixpanel-swift/Mixpanel/UITableViewBinding.swift"
+                  timestampString = "503614772.543406"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "463">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Mixpanel-swift/Mixpanel/UITableViewBinding.swift"
+            timestampString = "503447778.546811"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "init(eventName:path:delegate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Mixpanel-swift/Mixpanel/UITableViewBinding.swift"
+            timestampString = "503447810.071681"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "newDidSelectRowAtIndexPath(tableView:indexPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Mixpanel-swift/Mixpanel/Codeless.swift"
+            timestampString = "503447878.415635"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "createBinding(object:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Mixpanel.Codeless.createBinding (object : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;Mixpanel.CodelessBinding&gt;"
+                  moduleName = "Mixpanel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjburka/Documents/Projects/FarmersMarket/Pods/Mixpanel-swift/Mixpanel/Codeless.swift"
+                  timestampString = "503614772.562708"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Mixpanel.Codeless.createBinding (object : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;Mixpanel.CodelessBinding&gt;"
+                  moduleName = "Mixpanel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjburka/Documents/Projects/FarmersMarket/Pods/Mixpanel-swift/Mixpanel/Codeless.swift"
+                  timestampString = "503614772.565788"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "450">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Mixpanel-swift/Mixpanel/UIControlBinding.swift"
+            timestampString = "503447909.35356"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "execute()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Mixpanel-swift/Mixpanel/UIControlBinding.swift"
+            timestampString = "503447985.918862"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "init(object:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mixpanel.UIControlBinding.init (object : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;Mixpanel.UIControlBinding&gt;"
+                  moduleName = "Mixpanel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjburka/Documents/Projects/FarmersMarket/Pods/Mixpanel-swift/Mixpanel/UIControlBinding.swift"
+                  timestampString = "503614772.577663"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mixpanel.UIControlBinding.init (object : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;Mixpanel.UIControlBinding&gt;"
+                  moduleName = "Mixpanel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjburka/Documents/Projects/FarmersMarket/Pods/Mixpanel-swift/Mixpanel/UIControlBinding.swift"
+                  timestampString = "503614772.581078"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "463">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Mixpanel-swift/Mixpanel/UIControlBinding.swift"
+            timestampString = "503447987.42566"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init(eventName:path:controlEvent:verifyEvent:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FarmersMarket/MarketLocationViewController.swift"
+            timestampString = "503614726.950762"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "viewWillTransition(to:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FarmersMarket/MarketLocationViewController.swift"
+            timestampString = "503614726.950762"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "viewDidDisappear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FarmersMarket/MarketLocationViewController.swift"
+            timestampString = "503614726.950762"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FarmersMarket/MarketLocationViewController.swift"
+            timestampString = "503614703.9503"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "deinit"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
